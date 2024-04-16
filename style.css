@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main
+{
+    margin: 50px 0;
+    display: flex;
+    gap: 50px ;
+    text-align: center;
+    justify-content: center;
+    /* position: relative; */
+}
+.main img
+{
+    /* border-radius:10px ; */
+    width: 400px;
+    height: 400px;
+}
